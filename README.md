@@ -13,9 +13,9 @@
 ## General Information
 ### Problem Statement: 
 >You work for a consumer finance company specializing in various types of loans for urban customers.
- The company must decide on loan approvals based on the applicant's profile, balancing the risk of losing business by rejecting good applicants and the risk of financial loss by approving those likely to default. 
- The provided data includes information on past loan applicants and their default status. The goal is to identify patterns indicating a likelihood of default to inform decisions such as loan denial, loan amount reduction, or higher interest rates for risky applicants. 
- This case study involves using Exploratory Data Analysis (EDA) to understand the impact of consumer and loan attributes on default tendencies.
+>The company must decide on loan approvals based on the applicant's profile, balancing the risk of losing business by rejecting good applicants and the risk of financial loss by approving those likely to default. 
+>The provided data includes information on past loan applicants and their default status. The goal is to identify patterns indicating a likelihood of default to inform decisions such as loan denial, loan amount reduction, or higher interest rates for risky applicants. 
+>This case study involves using Exploratory Data Analysis (EDA) to understand the impact of consumer and loan attributes on default tendencies.
 
 ### Objective:
 >Understand and identify driving factors behind loan defaults.
