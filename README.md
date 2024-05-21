@@ -2,7 +2,7 @@
 > Lending Club case Study.
 
 
-## Table of Contents
+# Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
@@ -10,7 +10,7 @@
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
+# General Information
 ### Problem Statement: 
 >You work for a consumer finance company specializing in various types of loans for urban customers.
 >The company must decide on loan approvals based on the applicant's profile, balancing the risk of losing business by rejecting good applicants and the risk of financial loss by approving those likely to default. 
@@ -29,7 +29,7 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
+# Conclusions
 >
 >1)The exploratory data analysis has highlighted several key factors influencing loan default risks, such as loan amount, interest rates, annual income, loan purpose, home ownership, employment length, and public records.
 >
@@ -105,7 +105,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
+# Technologies Used
 - Pandas
 - NumPy 
 - Seaborn 
@@ -114,11 +114,11 @@
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
+# Acknowledgements
 This project was completed as part of case study provided by UpGrad IITB Programme for the Machine Learning and Artificial Intelligence course.
 
 
-## Contact
+# Contact
 Created by 
 >Gaurav Kumar
 >
