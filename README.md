@@ -18,19 +18,24 @@
 >This case study involves using Exploratory Data Analysis (EDA) to understand the impact of consumer and loan attributes on default tendencies.
 
 ### Objective:
-*>Understand and identify driving factors behind loan defaults.
-*>Provide insights for risk assessment.
-*>Identify patterns indicating a high risk of loan default.
+>Understand and identify driving factors behind loan defaults.
+>
+>Provide insights for risk assessment.
+>
+>Identify patterns indicating a high risk of loan default.
+>
 
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
+>
+1)The exploratory data analysis has highlighted several key factors influencing loan default risks, such as loan amount, interest rates, annual income, loan purpose, home ownership, employment length, and public records.
 
-*1)The exploratory data analysis has highlighted several key factors influencing loan default risks, such as loan amount, interest rates, annual income, loan purpose, home ownership, employment length, and public records.
-*2)By understanding these factors, the company can better assess risk and make informed decisions on loan approvals, terms, and interest rates.
-*3)Implementing these insights and recommendations will help minimize financial losses due to loan defaults and improve the overall profitability and sustainability of the lending business.
+2)By understanding these factors, the company can better assess risk and make informed decisions on loan approvals, terms, and interest rates.
+
+3)Implementing these insights and recommendations will help minimize financial losses due to loan defaults and improve the overall profitability and sustainability of the lending business.
 
 ### Driver Variables Identified
  1.Loan Amount
