@@ -17,7 +17,7 @@
  The provided data includes information on past loan applicants and their default status. The goal is to identify patterns indicating a likelihood of default to inform decisions such as loan denial, loan amount reduction, or higher interest rates for risky applicants. 
  This case study involves using Exploratory Data Analysis (EDA) to understand the impact of consumer and loan attributes on default tendencies.
 
-###Objective:
+### Objective:
 >Understand and identify driving factors behind loan defaults.
 >Provide insights for risk assessment.
 >Identify patterns indicating a high risk of loan default.
@@ -32,7 +32,7 @@
 2)By understanding these factors, the company can better assess risk and make informed decisions on loan approvals, terms, and interest rates.
 3)Implementing these insights and recommendations will help minimize financial losses due to loan defaults and improve the overall profitability and sustainability of the lending business.
 
-###Driver Variables Identified
+### Driver Variables Identified
  1.Loan Amount
  2.Interest Rate
  3.Annual Income
@@ -44,7 +44,7 @@
  9.Public Records and Bankruptcies
  10.Geographical Location
 
-###Business Insights
+### Business Insights
 1)Loan Amount and Default Risk: Higher loan amounts are associated with increased risk of default. Most loans are in the range of 5k-14k, but loans closer to the maximum (27k-28k) exhibit higher default rates.
 2)Interest Rates: Loans with higher interest rates (16% and above) have a significantly higher chance of being charged off. The average interest rate for defaulted loans is higher than for fully paid loans.
 3)Annual Income: Applicants with lower annual incomes (0-20k) have higher default rates, while those with incomes above 80k have a lower propensity for default. Annual income is inversely proportional to the likelihood of loan default.
