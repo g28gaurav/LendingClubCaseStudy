@@ -125,7 +125,7 @@ Created by
 >Dinkar Navaneetha
 >
 
- - feel free to contact me!
+ - feel free to contact us!
 
 
 <!-- Optional -->
